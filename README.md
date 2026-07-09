@@ -9,6 +9,8 @@ most valuable customers?*
 > Synthetic data is generated locally, so the whole project runs anywhere with
 > **no downloads or API keys**.
 
+![Dashboard preview](assets/dashboard_preview.png)
+
 ---
 
 ## ✨ What this demonstrates

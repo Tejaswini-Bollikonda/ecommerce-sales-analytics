@@ -91,7 +91,7 @@ st.divider()
 # Trend over time
 # --------------------------------------------------------------------------- #
 st.subheader("Sales & profit over time")
-trend = sales_over_time(fdf, freq="M")
+trend = sales_over_time(fdf, freq="ME")
 fig = px.line(
     trend,
     x="order_date",

@@ -22,7 +22,7 @@ def kpis(df: pd.DataFrame) -> dict[str, float]:
     }
 
 
-def sales_over_time(df: pd.DataFrame, freq: str = "M") -> pd.DataFrame:
+def sales_over_time(df: pd.DataFrame, freq: str = "ME") -> pd.DataFrame:
     """Sales and profit aggregated by month (or any pandas offset alias)."""
     grouped = (
         df.set_index("order_date")

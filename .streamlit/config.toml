@@ -1,0 +1,9 @@
+# Fixed light theme so the validated, light-surface-tuned chart palette always
+# renders as designed (independent of the viewer's system theme).
+[theme]
+base = "light"
+primaryColor = "#2a78d6"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f5f7fa"
+textColor = "#0b0b0b"
+font = "sans serif"

@@ -51,6 +51,10 @@ def _random_dates(n: int) -> pd.Series:
     # Add mild seasonality: bump Nov/Dec (holiday) by resampling some rows into Q4.
     boost = RNG.random(n) < 0.15
     dates = dates.where(~boost, dates + pd.to_timedelta(RNG.integers(0, 60, n), unit="D"))
+    # Keep everything inside the intended window — the seasonal shift can otherwise
+    # spill a few orders past END_DATE into a near-empty trailing year.
+    end_ts = pd.Timestamp(END_DATE)
+    dates = dates.where(dates <= end_ts, end_ts)
     return dates
 
 

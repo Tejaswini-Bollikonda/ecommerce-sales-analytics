@@ -84,7 +84,7 @@ ORD-104701,2022-07-21 15:17:10,CUST-2378,Corporate,Europe,Spain,Office Supplies,
 ORD-101593,2023-04-16 14:39:33,CUST-1420,Consumer,Europe,United Kingdom,Technology,Smartphone,3,659.89,0.0,1979.67,783.0,Standard
 ORD-106997,2022-02-04 12:39:02,CUST-2521,Consumer,North America,United States,Furniture,Office Chair,10,282.25,0.0,2822.5,1163.0,Express
 ORD-109363,2023-02-01 11:54:57,CUST-2948,Home Office,Europe,Spain,Technology,Smartphone,11,630.8,0.0,6938.8,2147.5,Standard
-ORD-103530,2025-01-15 16:25:35,CUST-2031,Corporate,North America,Canada,Office Supplies,Stapler,4,15.21,0.0,60.84,19.17,Express
+ORD-103530,2024-12-31 00:00:00,CUST-2031,Corporate,North America,Canada,Office Supplies,Stapler,4,15.21,0.0,60.84,19.17,Express
 ORD-108405,2022-11-24 05:12:41,CUST-2385,Corporate,Asia,Singapore,Furniture,Sofa,11,195.0,0.1,1930.5,254.02,Same Day
 ORD-100696,2023-10-06 20:15:30,CUST-2157,Consumer,Asia,Japan,Office Supplies,Binder,9,20.64,0.15,157.9,29.14,Standard
 ORD-108264,2023-11-03 16:22:59,CUST-2064,Home Office,Europe,United Kingdom,Technology,Laptop,6,570.61,0.0,3423.66,1015.13,Standard
@@ -286,7 +286,7 @@ ORD-108059,2023-07-20 18:43:48,CUST-2194,Consumer,Asia,Singapore,Office Supplies
 ORD-103588,2022-11-05 07:46:10,CUST-1366,,Asia,India,Technology,Smartphone,9,255.37,0.0,2298.33,,
 ORD-102605,2022-06-27 11:24:14,CUST-1360,Consumer,North America,Mexico,Furniture,Office Chair,2,499.97,0.0,999.94,263.39,Same Day
 ORD-100797,2023-02-06 10:23:07,CUST-1956,Home Office,North America,Mexico,Office Supplies,Pens (Pack),3,17.87,0.3,37.53,3.65,Standard
-ORD-102553,2025-01-02 11:54:29,CUST-1795,Consumer,Oceania,Australia,Furniture,Sofa,3,318.22,0.3,668.26,39.29,Express
+ORD-102553,2024-12-31 00:00:00,CUST-1795,Consumer,Oceania,Australia,Furniture,Sofa,3,318.22,0.3,668.26,39.29,Express
 ORD-107945,2023-05-01 10:01:34,CUST-1390,Consumer,North America,United States,Furniture,Sofa,4,145.08,0.15,493.27,122.68,Standard
 ORD-108418,2022-07-01 12:59:20,CUST-1077,,North America,Mexico,Technology,Headphones,7,548.45,0.0,3839.15,,
 ORD-108518,2022-01-13 20:56:37,CUST-1306,Home Office,Europe,France,Furniture,Desk,6,195.26,0.1,1054.4,138.45,Standard
@@ -691,7 +691,7 @@ ORD-108565,2023-09-14 06:09:42,CUST-1341,Corporate,North America,Mexico,Technolo
 ORD-102231,2023-09-03 05:17:16,CUST-1287,Consumer,Europe,Germany,Office Supplies,Pens (Pack),7,16.28,0.1,102.56,13.59,Express
 ORD-105679,2022-01-20 06:11:32,CUST-2401,Consumer,North America,Mexico,Technology,Laptop,5,312.63,0.0,1563.15,619.21,Express
 ORD-105280,2024-05-31 07:05:44,CUST-2258,Corporate,Oceania,New Zealand,Technology,Keyboard,9,355.94,0.15,2722.94,510.98,Standard
-ORD-104951,2025-01-21 02:00:06,CUST-1585,Consumer,Asia,Singapore,Furniture,Sofa,4,89.14,0.1,320.9,114.52,Same Day
+ORD-104951,2024-12-31 00:00:00,CUST-1585,Consumer,Asia,Singapore,Furniture,Sofa,4,89.14,0.1,320.9,114.52,Same Day
 ORD-109645,2023-09-06 02:38:33,CUST-1447,Consumer,Europe,Germany,Office Supplies,Binder,10,5.61,0.15,47.68,8.5,Standard
 ORD-101126,2022-12-30 13:50:57,CUST-1802,Consumer,Europe,France,Office Supplies,Pens (Pack),6,13.54,0.0,81.24,31.43,Standard
 ORD-102778,2022-07-23 11:11:01,CUST-1830,Corporate,North America,Canada,Technology,Smartphone,9,899.67,0.3,5667.92,55.15,Standard
@@ -1284,7 +1284,7 @@ ORD-102373,2022-09-20 17:09:31,CUST-2384,Corporate,North America,Mexico,Furnitur
 ORD-101990,2024-01-20 09:24:08,CUST-2484,Consumer,North America,United States,Furniture,Office Chair,10,336.71,0.0,3367.1,1073.55,Same Day
 ORD-104532,2023-04-08 03:01:12,CUST-1105,Consumer,Europe,United Kingdom,Furniture,Desk,11,388.05,0.1,3841.7,947.01,Same Day
 ORD-103151,2022-02-03 06:07:18,CUST-1351,Consumer,Europe,United Kingdom,Technology,Keyboard,7,204.43,0.1,1287.91,354.63,Express
-ORD-100453,2025-01-08 19:07:51,CUST-2396,Consumer,North America,Mexico,Technology,Smartphone,2,225.28,0.0,450.56,143.02,Express
+ORD-100453,2024-12-31 00:00:00,CUST-2396,Consumer,North America,Mexico,Technology,Smartphone,2,225.28,0.0,450.56,143.02,Express
 ORD-106255,2022-07-06 08:13:56,CUST-1049,Consumer,Oceania,New Zealand,Technology,Headphones,7,450.27,0.0,3151.89,1111.1,Standard
 ORD-100509,2023-05-27 23:43:08,CUST-2597,CONSUMER, North America ,Mexico,Technology,Smartphone,3,358.47,0.0,1075.41,394.08,Economy
 ORD-105874,2022-01-17 03:31:53,CUST-1283,Consumer,North America,Canada,Furniture,Lamp,2,136.75,0.1,246.15,38.13,Standard
@@ -1545,7 +1545,7 @@ ORD-109890,2023-06-23 17:58:53,CUST-1940,Home Office,Europe,United Kingdom,Techn
 ORD-102694,2024-01-01 06:37:38,CUST-1102,Consumer,Asia,India,Furniture,Sofa,4,169.42,0.15,576.03,75.88,Economy
 ORD-106289,2024-11-20 19:52:09,CUST-2886,Home Office,Asia,Japan,Furniture,Office Chair,3,190.89,0.0,572.67,162.4,Economy
 ORD-105572,2024-05-10 10:48:12,CUST-2794,Home Office,Europe,Germany,Furniture,Sofa,2,135.63,0.15,230.57,58.97,Standard
-ORD-105775,2025-01-10 00:30:06,CUST-2449,Corporate,North America,United States,Office Supplies,Notebook,6,10.49,0.0,62.94,20.98,Express
+ORD-105775,2024-12-31 00:00:00,CUST-2449,Corporate,North America,United States,Office Supplies,Notebook,6,10.49,0.0,62.94,20.98,Express
 ORD-101616,2024-10-25 20:58:55,CUST-1692,Consumer,North America,Canada,Office Supplies,Pens (Pack),4,7.82,0.0,31.28,8.52,Standard
 ORD-108982,2024-09-23 22:19:47,CUST-1205,Consumer,Europe,United Kingdom,Furniture,Sofa,10,121.81,0.0,1218.1,514.37,Economy
 ORD-100027,2022-05-21 20:04:47,CUST-1546,Corporate,North America,United States,Furniture,Office Chair,8,177.65,0.0,1421.2,348.88,Express
@@ -1614,7 +1614,7 @@ ORD-100390,2023-10-04 03:52:27,CUST-2008,Corporate,Europe,Germany,Furniture,Lamp
 ORD-103810,2023-01-23 07:45:24,CUST-2330,Consumer,Europe,Germany,Office Supplies,Pens (Pack),4,9.94,0.15,33.8,5.37,Standard
 ORD-105070,2022-07-23 09:58:21,CUST-1567,Home Office,North America,Canada,Technology,Smartphone,11,589.51,0.0,6484.61,2712.13,Standard
 ORD-102647,2023-09-14 05:13:51,CUST-1744,Consumer,Asia,Singapore,Technology,Laptop,1,368.22,0.0,368.22,129.69,Standard
-ORD-100908,2025-01-15 22:42:51,CUST-2650,Corporate,North America,United States,Furniture,Bookcase,3,328.93,0.0,986.79,286.35,Standard
+ORD-100908,2024-12-31 00:00:00,CUST-2650,Corporate,North America,United States,Furniture,Bookcase,3,328.93,0.0,986.79,286.35,Standard
 ORD-107748,2024-03-28 11:19:50,CUST-2803,Consumer,North America,Canada,Furniture,Desk,9,309.39,0.0,2784.51,898.68,Express
 ORD-108776,2024-02-04 03:57:25,CUST-2134,Corporate,Europe,Spain,Technology,Monitor,3,478.04,0.0,1434.12,490.93,Standard
 ORD-101961,2024-04-04 16:05:53,CUST-2718,Corporate,Europe,Germany,Office Supplies,Paper (Ream),4,13.22,0.1,47.59,14.43,Standard
@@ -2113,7 +2113,7 @@ ORD-103924,2024-09-25 09:12:26,CUST-2284,Corporate,North America,United States,T
 ORD-101176,2023-02-16 08:27:42,CUST-1220,Consumer,Europe,France,Office Supplies,Notebook,7,21.17,0.0,148.19,52.22,Same Day
 ORD-105609,2024-08-11 20:23:16,CUST-2974,Home Office,Asia,Japan,Office Supplies,Stapler,11,15.13,0.0,166.43,51.4,Standard
 ORD-102022,2024-11-28 09:31:12,CUST-1603,Corporate,North America,Canada,Technology,Monitor,11,461.5,0.0,5076.5,1972.12,Standard
-ORD-107470,2025-01-11 00:12:00,CUST-1348,Home Office,North America,United States,Technology,Headphones,5,639.35,0.3,2237.72,13.62,Express
+ORD-107470,2024-12-31 00:00:00,CUST-1348,Home Office,North America,United States,Technology,Headphones,5,639.35,0.3,2237.72,13.62,Express
 ORD-108348,2022-03-13 19:29:49,CUST-2083,Consumer,North America,Mexico,Technology,Keyboard,4,306.4,0.1,1103.04,296.15,Standard
 ORD-104721,2023-02-08 14:16:45,CUST-2449,Consumer,Europe,United Kingdom,Office Supplies,Paper (Ream),8,13.79,0.1,99.29,27.91,Express
 ORD-100600,2023-04-25 16:13:24,CUST-1853,Consumer,Europe,Spain,Technology,Headphones,1,426.54,0.3,298.58,19.64,Standard
@@ -2189,7 +2189,7 @@ ORD-101050,2023-01-30 05:06:46,CUST-2813,Consumer,Europe,Germany,Office Supplies
 ORD-101740,2023-01-07 03:47:12,CUST-1999,Corporate,North America,Canada,Office Supplies,Binder,8,18.48,0.1,133.06,31.61,Standard
 ORD-106824,2022-09-03 00:34:53,CUST-1354,CONSUMER, Europe ,United Kingdom,Technology,Keyboard,9,692.08,0.0,6228.72,2352.85,Standard
 ORD-106695,2023-03-01 15:18:30,CUST-1894,Home Office,North America,Mexico,Office Supplies,Pens (Pack),10,8.93,0.0,89.3,30.48,Economy
-ORD-104878,2025-01-15 20:26:31,CUST-1490,Home Office,North America,Mexico,Technology,Keyboard,10,313.85,0.15,2667.72,645.98,Express
+ORD-104878,2024-12-31 00:00:00,CUST-1490,Home Office,North America,Mexico,Technology,Keyboard,10,313.85,0.15,2667.72,645.98,Express
 ORD-108779,2023-10-29 06:44:44,CUST-1518,Corporate,North America,United States,Furniture,Office Chair,5,338.51,0.0,1692.55,643.5,Standard
 ORD-100164,2023-12-24 11:29:16,CUST-1958,Consumer,Europe,France,Furniture,Bookcase,8,132.35,0.1,952.92,207.54,Express
 ORD-108437,2024-08-17 18:53:38,CUST-2000,Consumer,Asia,Singapore,Furniture,Lamp,7,157.88,0.0,1105.16,442.18,Express
@@ -2902,7 +2902,7 @@ ORD-109889,2022-12-06 03:26:13,CUST-2403,Consumer,Oceania,New Zealand,Technology
 ORD-108986,2024-02-29 17:14:37,CUST-2699,Consumer,North America,United States,Office Supplies,Binder,8,8.52,0.1,61.34,18.91,Economy
 ORD-102935,2022-05-21 13:34:32,CUST-1435,Corporate,Europe,Germany,Furniture,Bookcase,3,255.3,0.15,651.02,186.75,Standard
 ORD-101628,2022-10-25 00:46:23,CUST-1060,Consumer,North America,Canada,Technology,Keyboard,5,434.52,0.0,2172.6,761.51,Standard
-ORD-108385,2024-12-31 18:57:51,CUST-1841,Corporate,North America,Mexico,Technology,Monitor,4,414.15,0.0,1656.6,580.38,Express
+ORD-108385,2024-12-31 00:00:00,CUST-1841,Corporate,North America,Mexico,Technology,Monitor,4,414.15,0.0,1656.6,580.38,Express
 ORD-103038,2023-02-20 08:06:37,CUST-1015,Consumer,North America,Canada,Office Supplies,Stapler,1,9.49,0.1,8.54,2.14,Standard
 ORD-105293,2024-01-16 20:14:11,CUST-2562,Home Office,Europe,United Kingdom,Technology,Monitor,9,272.93,0.0,2456.37,890.38,Standard
 ORD-101937,2024-04-03 23:43:31,CUST-1117,Consumer,Europe,France,Furniture,Desk,3,127.27,0.0,381.81,104.75,Economy
@@ -3014,7 +3014,7 @@ ORD-104644,2023-08-21 20:21:19,CUST-2828,Corporate,North America,United States,T
 ORD-104226,2022-11-30 13:36:44,CUST-1966,Home Office,Europe,Germany,Technology,Smartphone,2,723.96,0.15,1230.73,131.77,Standard
 ORD-101453,2024-03-09 08:04:46,CUST-1363,Home Office,Oceania,New Zealand,Furniture,Desk,11,191.25,0.15,1788.19,285.34,Express
 ORD-101736,2023-10-06 10:29:44,CUST-1146,Home Office,Asia,India,Office Supplies,Binder,3,9.41,0.0,28.23,11.78,Standard
-ORD-105313,2025-02-06 00:20:04,CUST-1183,Corporate,Europe,United Kingdom,Furniture,Bookcase,1,338.39,0.0,338.39,105.89,Express
+ORD-105313,2024-12-31 00:00:00,CUST-1183,Corporate,Europe,United Kingdom,Furniture,Bookcase,1,338.39,0.0,338.39,105.89,Express
 ORD-106185,2023-02-08 12:46:15,CUST-1664,Consumer,Asia,Japan,Technology,Smartphone,7,346.13,0.1,2180.62,440.71,Express
 ORD-109739,2023-07-15 18:34:25,CUST-1100,Home Office,Europe,Germany,Technology,Keyboard,1,217.95,0.0,217.95,73.85,Standard
 ORD-102775,2024-04-17 09:36:25,CUST-2324,Consumer,North America,Mexico,Technology,Keyboard,1,363.1,0.15,308.64,59.06,Standard
@@ -3045,7 +3045,7 @@ ORD-109356,2024-03-20 04:04:00,CUST-2349,Corporate,Oceania,New Zealand,Office Su
 ORD-109051,2024-05-27 06:52:32,CUST-1656,Consumer,Europe,France,Office Supplies,Paper (Ream),3,12.04,0.0,36.12,12.35,Economy
 ORD-109927,2022-03-22 07:32:21,CUST-2860,Corporate,North America,Mexico,Furniture,Office Chair,11,236.67,0.1,2343.03,580.99,Express
 ORD-103347,2022-09-17 07:25:35,CUST-2352,Consumer,Europe,Spain,Office Supplies,Paper (Ream),3,10.28,0.15,26.21,4.6,Standard
-ORD-100091,2025-01-03 00:01:30,CUST-1619,Consumer,Europe,Germany,Office Supplies,Binder,10,7.63,0.0,76.3,21.9,Express
+ORD-100091,2024-12-31 00:00:00,CUST-1619,Consumer,Europe,Germany,Office Supplies,Binder,10,7.63,0.0,76.3,21.9,Express
 ORD-108200,2024-10-03 15:12:24,CUST-2774,Home Office,North America,Mexico,Furniture,Bookcase,5,223.54,0.1,1005.93,207.41,Same Day
 ORD-101323,2023-02-21 05:51:12,CUST-2616,Home Office,Asia,Singapore,Office Supplies,Paper (Ream),1,15.23,0.3,10.66,0.75,Standard
 ORD-109454,2023-06-03 06:22:59,CUST-2515,Consumer,Europe,Germany,Office Supplies,Binder,1,13.18,0.15,11.2,2.2,Express
@@ -3101,7 +3101,7 @@ ORD-102856,2024-04-24 07:09:13,CUST-2252,,Europe,Germany,Office Supplies,Binder,
 ORD-104662,2022-12-17 21:05:38,CUST-2095,Home Office,Europe,Germany,Furniture,Bookcase,6,278.92,0.15,1422.49,276.57,Standard
 ORD-100126,2024-07-28 02:47:14,CUST-2459,Consumer,North America,Canada,Office Supplies,Pens (Pack),9,15.44,0.1,125.06,32.22,Standard
 ORD-100133,2022-12-15 02:44:55,CUST-2361,Home Office,North America,Canada,Furniture,Bookcase,8,442.8,0.2,2833.92,367.49,Express
-ORD-103784,2025-02-08 21:22:57,CUST-2488,Consumer,Europe,Germany,Technology,Monitor,3,502.96,0.0,1508.88,509.15,Express
+ORD-103784,2024-12-31 00:00:00,CUST-2488,Consumer,Europe,Germany,Technology,Monitor,3,502.96,0.0,1508.88,509.15,Express
 ORD-104421,2022-09-20 08:38:09,CUST-1929,Home Office,North America,Mexico,Office Supplies,Pens (Pack),7,10.49,0.0,73.43,19.75,Express
 ORD-109973,2023-01-28 13:03:11,CUST-1187,Corporate,North America,Mexico,Furniture,Desk,1,327.79,0.1,295.01,76.97,Same Day
 ORD-104185,2022-11-20 04:28:13,CUST-1719,Consumer,Asia,India,Office Supplies,Binder,10,11.0,0.15,93.5,26.99,Standard
@@ -3133,7 +3133,7 @@ ORD-100514,2023-01-29 04:29:13,CUST-2273,Consumer,North America,United States,Te
 ORD-107503,2023-03-19 01:14:18,CUST-1595,CONSUMER, Europe ,France,Office Supplies,Paper (Ream),6,11.95,0.0,71.7,24.11,Standard
 ORD-101764,2023-08-19 19:07:12,CUST-2207,,North America,Mexico,Office Supplies,Pens (Pack),10,14.49,0.0,144.9,,
 ORD-106096,2024-12-03 05:40:52,CUST-2383,Corporate,North America,Mexico,Office Supplies,Notebook,5,9.25,0.0,46.25,12.35,Standard
-ORD-108622,2024-12-31 03:24:34,CUST-2569,Corporate,North America,Mexico,Technology,Headphones,4,388.85,0.2,1244.32,162.19,Economy
+ORD-108622,2024-12-31 00:00:00,CUST-2569,Corporate,North America,Mexico,Technology,Headphones,4,388.85,0.2,1244.32,162.19,Economy
 ORD-108299,2024-08-06 00:03:06,CUST-2412,Consumer,North America,Mexico,Office Supplies,Stapler,2,16.55,0.3,23.17,-1.46,Express
 ORD-101045,2022-07-17 17:17:21,CUST-1625,Corporate,North America,United States,Office Supplies,Stapler,3,10.07,0.0,30.21,8.2,Standard
 ORD-109716,2024-09-22 20:11:21,CUST-1146,Home Office,North America,Mexico,Office Supplies,Pens (Pack),10,6.42,0.0,64.2,18.93,Standard
@@ -3175,7 +3175,7 @@ ORD-105915,2024-11-12 03:59:31,CUST-1518,Home Office,Europe,Germany,Furniture,De
 ORD-102491,2022-09-22 10:34:42,CUST-2118,Consumer,Europe,Germany,Office Supplies,Pens (Pack),6,11.09,0.0,66.54,24.78,Standard
 ORD-104554,2022-10-25 23:52:56,CUST-1831,Home Office,North America,Mexico,Technology,Headphones,6,735.62,0.0,4413.72,1657.64,Standard
 ORD-104769,2022-03-01 10:57:42,CUST-2523,Home Office,Asia,Japan,Technology,Keyboard,10,342.8,0.0,3428.0,1314.86,Economy
-ORD-102539,2025-01-03 19:36:53,CUST-1204,Corporate,Europe,United Kingdom,Office Supplies,Notebook,2,14.34,0.0,28.68,9.99,Express
+ORD-102539,2024-12-31 00:00:00,CUST-1204,Corporate,Europe,United Kingdom,Office Supplies,Notebook,2,14.34,0.0,28.68,9.99,Express
 ORD-105066,2024-05-03 07:18:16,CUST-1956,Home Office,Europe,United Kingdom,Furniture,Bookcase,2,224.52,0.0,449.04,149.06,Standard
 ORD-109492,2022-05-22 15:30:12,CUST-1992,,Asia,Singapore,Furniture,Office Chair,7,206.92,0.2,1158.75,196.18,Standard
 ORD-103604,2022-11-23 19:06:17,CUST-2100,Consumer,Oceania,New Zealand,Furniture,Lamp,7,364.57,0.2,2041.59,348.02,Economy
@@ -4185,8 +4185,8 @@ ORD-100947,2022-11-25 00:11:22,CUST-2280,Corporate,Asia,Singapore,Technology,Sma
 ORD-104672,2024-12-28 01:12:42,CUST-1525,Consumer,North America,United States,Office Supplies,Pens (Pack),8,10.05,0.0,80.4,24.96,Express
 ORD-106086,2023-12-21 08:17:33,CUST-1753,Home Office,Europe,Spain,Furniture,Lamp,6,131.29,0.15,669.58,200.03,Express
 ORD-109695,2022-12-30 10:35:44,CUST-1992,Corporate,North America,Canada,Technology,Smartphone,2,747.34,0.0,1494.68,377.53,Standard
-ORD-107847,2025-01-04 14:38:51,CUST-1432,Home Office,North America,Mexico,Office Supplies,Notebook,7,9.78,0.1,61.61,17.97,Economy
-ORD-102951,2025-01-09 04:03:04,CUST-1163,Home Office,Asia,India,Office Supplies,Stapler,9,8.98,0.1,72.74,10.34,Economy
+ORD-107847,2024-12-31 00:00:00,CUST-1432,Home Office,North America,Mexico,Office Supplies,Notebook,7,9.78,0.1,61.61,17.97,Economy
+ORD-102951,2024-12-31 00:00:00,CUST-1163,Home Office,Asia,India,Office Supplies,Stapler,9,8.98,0.1,72.74,10.34,Economy
 ORD-105831,2022-06-09 13:56:57,CUST-1400,Home Office,North America,Mexico,Technology,Monitor,10,302.01,0.1,2718.09,646.01,Standard
 ORD-100614,2022-03-18 16:46:41,CUST-2203,Corporate,North America,Canada,Office Supplies,Stapler,7,11.27,0.3,55.22,0.02,Standard
 ORD-101699,2024-01-19 02:14:15,CUST-2868,Corporate,Asia,Japan,Office Supplies,Binder,6,16.23,0.0,97.38,30.86,Same Day
@@ -4293,7 +4293,7 @@ ORD-104529,2023-04-07 19:32:31,CUST-1117,Corporate,Europe,France,Office Supplies
 ORD-107829,2022-03-21 15:23:23,CUST-1997,Consumer,North America,Mexico,Technology,Laptop,4,457.2,0.0,1828.8,683.16,Standard
 ORD-100523,2022-06-20 09:01:53,CUST-1948,Consumer,Europe,Spain,Technology,Laptop,4,630.35,0.1,2269.26,510.73,Standard
 ORD-108968,2023-02-28 22:48:31,CUST-2772,Consumer,Oceania,Australia,Office Supplies,Notebook,1,8.55,0.0,8.55,3.37,Express
-ORD-108151,2025-01-16 00:40:41,CUST-1637,Corporate,Europe,Germany,Office Supplies,Stapler,1,7.98,0.0,7.98,2.29,Economy
+ORD-108151,2024-12-31 00:00:00,CUST-1637,Corporate,Europe,Germany,Office Supplies,Stapler,1,7.98,0.0,7.98,2.29,Economy
 ORD-109550,2022-05-04 15:46:58,CUST-1401,Home Office,Oceania,New Zealand,Technology,Laptop,11,301.48,0.0,3316.28,1363.48,Standard
 ORD-107182,2024-08-12 18:09:19,CUST-1645,Home Office,Europe,France,Office Supplies,Pens (Pack),11,9.93,0.1,98.31,13.06,Standard
 ORD-104770,2024-04-21 07:38:58,CUST-2745,Corporate,Europe,France,Technology,Keyboard,6,550.64,0.0,3303.84,938.57,Economy
@@ -4320,7 +4320,7 @@ ORD-102777,2023-08-20 18:07:02,CUST-1501,Consumer,Europe,United Kingdom,Technolo
 ORD-106520,2024-03-24 14:47:30,CUST-2475,Consumer,Oceania,Australia,Office Supplies,Notebook,5,11.24,0.0,56.2,18.82,Express
 ORD-107556,2024-07-24 11:57:12,CUST-2816,Corporate,North America,United States,Office Supplies,Notebook,7,7.91,0.0,55.37,18.82,Express
 ORD-106525,2024-03-12 00:43:25,CUST-1863,,Oceania,Australia,Office Supplies,Notebook,4,15.59,0.15,53.01,8.83,
-ORD-106947,2025-01-22 18:18:44,CUST-2045,Consumer,Asia,India,Furniture,Office Chair,11,171.85,0.0,1890.35,509.81,Standard
+ORD-106947,2024-12-31 00:00:00,CUST-2045,Consumer,Asia,India,Furniture,Office Chair,11,171.85,0.0,1890.35,509.81,Standard
 ORD-104149,2023-01-14 11:02:12,CUST-1990,Corporate,Europe,France,Technology,Keyboard,7,349.93,0.0,2449.51,867.07,Economy
 ORD-106037,2024-08-08 16:09:15,CUST-1172,Consumer,North America,Canada,Office Supplies,Notebook,6,6.7,0.2,32.16,7.72,Standard
 ORD-103019,2022-02-05 11:13:19,CUST-1649,Consumer,North America,United States,Furniture,Lamp,3,266.69,0.1,720.06,170.78,Standard
@@ -4459,7 +4459,7 @@ ORD-109604,2023-09-26 00:21:46,CUST-1813,Corporate,North America,Canada,Technolo
 ORD-104415,2023-05-27 16:54:25,CUST-1981,Consumer,Asia,India,Office Supplies,Stapler,4,9.43,0.0,37.72,12.25,Standard
 ORD-104626,2024-05-05 15:31:37,CUST-1485,Home Office,Asia,India,Office Supplies,Notebook,7,9.83,0.15,58.49,12.65,Express
 ORD-106790,2023-02-07 18:51:31,CUST-1820,Consumer,North America,Canada,Furniture,Lamp,4,401.87,0.1,1446.73,361.94,Economy
-ORD-107552,2025-01-29 14:43:44,CUST-1158,Consumer,North America,United States,Furniture,Desk,11,409.63,0.15,3830.04,345.05,Standard
+ORD-107552,2024-12-31 00:00:00,CUST-1158,Consumer,North America,United States,Furniture,Desk,11,409.63,0.15,3830.04,345.05,Standard
 ORD-109394,2022-08-17 10:01:04,CUST-1744,Corporate,Asia,Japan,Furniture,Bookcase,3,194.59,0.0,583.77,236.21,Standard
 ORD-101711,2022-08-20 12:25:52,CUST-2179,HOME OFFICE, North America ,United States,Furniture,Office Chair,3,335.22,0.0,1005.66,381.88,Standard
 ORD-104747,2024-11-23 06:43:02,CUST-1687,Consumer,Europe,United Kingdom,Furniture,Sofa,7,102.78,0.0,719.46,221.53,Standard
@@ -4684,7 +4684,7 @@ ORD-101563,2023-04-09 10:36:42,CUST-1275,Consumer,Oceania,New Zealand,Furniture,
 ORD-109577,2023-12-20 14:41:00,CUST-2407,Corporate,Europe,Germany,Technology,Smartphone,3,662.82,0.0,1988.46,772.8,Standard
 ORD-100311,2023-10-23 10:49:34,CUST-1589,Consumer,Europe,Germany,Office Supplies,Notebook,9,12.68,0.3,79.88,11.62,Same Day
 ORD-108647,2022-09-26 20:47:53,CUST-2257,Consumer,North America,Canada,Office Supplies,Pens (Pack),4,26.44,0.1,95.18,17.51,Express
-ORD-107135,2025-01-07 00:09:11,CUST-1272,Consumer,Europe,United Kingdom,Technology,Keyboard,2,330.14,0.0,660.28,194.98,Standard
+ORD-107135,2024-12-31 00:00:00,CUST-1272,Consumer,Europe,United Kingdom,Technology,Keyboard,2,330.14,0.0,660.28,194.98,Standard
 ORD-101970,2023-06-15 16:41:21,CUST-2489,Corporate,North America,Mexico,Office Supplies,Stapler,4,11.93,0.0,47.72,13.93,Express
 ORD-107986,2022-01-06 08:27:06,CUST-2067,Home Office,Oceania,New Zealand,Technology,Monitor,11,372.65,0.1,3689.23,835.06,Standard
 ORD-108243,2023-11-19 21:17:10,CUST-1755,Consumer,North America,United States,Office Supplies,Binder,3,9.9,0.0,29.7,7.83,Standard
@@ -4841,7 +4841,7 @@ ORD-109231,2023-12-26 03:47:45,CUST-1554,Home Office,Asia,India,Furniture,Sofa,1
 ORD-105733,2022-07-07 01:11:55,CUST-2608,Home Office,Asia,India,Office Supplies,Pens (Pack),9,6.38,0.0,57.42,22.31,Express
 ORD-104997,2024-05-16 22:53:50,CUST-1632,Consumer,Europe,United Kingdom,Office Supplies,Paper (Ream),3,6.3,0.1,17.01,5.08,Express
 ORD-105378,2022-02-05 04:22:43,CUST-2981,Home Office,North America,Mexico,Furniture,Desk,9,202.82,0.0,1825.38,476.44,Standard
-ORD-100138,2025-01-04 12:17:54,CUST-2577,Corporate,Asia,India,Office Supplies,Binder,1,15.85,0.0,15.85,5.51,Express
+ORD-100138,2024-12-31 00:00:00,CUST-2577,Corporate,Asia,India,Office Supplies,Binder,1,15.85,0.0,15.85,5.51,Express
 ORD-109782,2023-04-18 20:56:04,CUST-2370,Consumer,Europe,Germany,Furniture,Lamp,5,272.27,0.15,1157.15,232.8,Same Day
 ORD-104238,2024-03-22 03:41:13,CUST-1661,CORPORATE, Europe ,France,Furniture,Lamp,1,250.26,0.3,175.18,26.33,Economy
 ORD-109802,2023-06-17 09:44:17,CUST-2912,Corporate,Europe,Spain,Office Supplies,Notebook,7,8.75,0.15,52.06,11.67,Standard
@@ -4937,7 +4937,7 @@ ORD-106871,2023-11-09 21:08:22,CUST-1596,Consumer,Europe,Germany,Office Supplies
 ORD-106822,2024-05-01 21:00:23,CUST-2916,Consumer,Europe,Germany,Technology,Headphones,11,383.21,0.1,3793.78,1051.98,Express
 ORD-108504,2024-07-06 14:57:55,CUST-2771,Consumer,Europe,Spain,Office Supplies,Pens (Pack),7,16.7,0.15,99.36,14.65,Express
 ORD-104772,2024-05-22 17:25:57,CUST-1198,Home Office,North America,Canada,Furniture,Lamp,2,176.41,0.0,352.82,140.48,Standard
-ORD-103475,2025-01-16 05:05:01,CUST-2382,Consumer,Europe,Spain,Technology,Keyboard,10,433.37,0.0,4333.7,1740.09,Standard
+ORD-103475,2024-12-31 00:00:00,CUST-2382,Consumer,Europe,Spain,Technology,Keyboard,10,433.37,0.0,4333.7,1740.09,Standard
 ORD-107476,2023-12-01 06:43:08,CUST-1567,Corporate,Europe,Germany,Office Supplies,Paper (Ream),10,11.17,0.0,111.7,33.01,Express
 ORD-101482,2022-03-27 18:12:18,CUST-1376,Corporate,Europe,Spain,Furniture,Sofa,6,356.34,0.15,1817.33,311.12,Standard
 ORD-109769,2024-02-03 19:03:16,CUST-1973,Consumer,North America,Mexico,Technology,Smartphone,2,524.35,0.0,1048.7,436.4,Express
@@ -4963,7 +4963,7 @@ ORD-100641,2022-07-06 04:24:58,CUST-2338,Home Office,Asia,Singapore,Furniture,So
 ORD-100108,2022-10-09 00:11:18,CUST-2394,Consumer,North America,Mexico,Furniture,Desk,4,340.8,0.2,1090.56,144.68,Standard
 ORD-105457,2023-05-08 12:29:51,CUST-1681,Consumer,Europe,Germany,Office Supplies,Binder,10,14.08,0.0,140.8,58.06,Standard
 ORD-109761,2022-11-05 05:42:18,CUST-2415,Home Office,North America,United States,Office Supplies,Paper (Ream),7,7.72,0.0,54.04,19.59,Standard
-ORD-106431,2025-01-06 08:58:55,CUST-1878,Consumer,Europe,United Kingdom,Office Supplies,Pens (Pack),2,19.19,0.0,38.38,11.62,Standard
+ORD-106431,2024-12-31 00:00:00,CUST-1878,Consumer,Europe,United Kingdom,Office Supplies,Pens (Pack),2,19.19,0.0,38.38,11.62,Standard
 ORD-104332,2022-05-13 23:01:54,CUST-1027,Corporate,North America,United States,Office Supplies,Stapler,7,8.79,0.0,61.53,16.24,Standard
 ORD-108540,2023-01-16 23:49:57,CUST-1945,Corporate,North America,Mexico,Office Supplies,Binder,6,11.12,0.1,60.05,13.26,Standard
 ORD-101286,2024-07-17 03:15:38,CUST-1692,Consumer,North America,Canada,Furniture,Office Chair,9,300.66,0.0,2705.94,952.92,Express
@@ -5004,7 +5004,7 @@ ORD-109703,2023-09-22 22:19:33,CUST-2829,Consumer,North America,Mexico,Office Su
 ORD-109529,2024-02-12 21:02:54,CUST-1547,Home Office,North America,United States,Office Supplies,Paper (Ream),6,13.58,0.0,81.48,24.15,Express
 ORD-102919,2022-07-03 20:56:38,CUST-2080,Consumer,Asia,India,Technology,Monitor,6,491.56,0.15,2506.96,471.86,Standard
 ORD-103094,2022-12-20 17:46:46,CUST-2301,Corporate,Europe,France,Furniture,Sofa,5,122.05,0.15,518.71,125.22,Express
-ORD-105082,2025-01-10 18:38:29,CUST-1764,Corporate,Europe,United Kingdom,Office Supplies,Binder,8,10.37,0.0,82.96,28.24,Standard
+ORD-105082,2024-12-31 00:00:00,CUST-1764,Corporate,Europe,United Kingdom,Office Supplies,Binder,8,10.37,0.0,82.96,28.24,Standard
 ORD-106027,2023-11-30 10:26:17,CUST-2478,Consumer,North America,United States,Furniture,Desk,11,144.03,0.15,1346.68,216.41,Economy
 ORD-107610,2024-10-17 01:48:59,CUST-1670,Corporate,Asia,Japan,Office Supplies,Paper (Ream),2,22.09,0.15,37.55,9.78,Economy
 ORD-106066,2024-09-23 14:28:02,CUST-2966,Consumer,Europe,Spain,Technology,Monitor,11,289.73,0.0,3187.03,1186.8,Standard
@@ -5255,7 +5255,7 @@ ORD-104987,2024-04-16 21:40:26,CUST-2462,Corporate,North America,Mexico,Office S
 ORD-107159,2022-02-17 16:34:21,CUST-2168,Corporate,North America,United States,Office Supplies,Stapler,3,11.76,0.0,35.28,11.81,Standard
 ORD-108943,2023-11-09 08:53:05,CUST-2160,Consumer,Asia,India,Technology,Smartphone,4,692.72,0.0,2770.88,1060.71,Standard
 ORD-102984,2022-04-18 10:25:32,CUST-2930,Consumer,North America,Mexico,Office Supplies,Stapler,8,13.43,0.0,107.44,34.45,Standard
-ORD-103436,2025-01-25 05:17:31,CUST-1614,Consumer,North America,United States,Technology,Smartphone,8,450.72,0.15,3064.9,716.8,Standard
+ORD-103436,2024-12-31 00:00:00,CUST-1614,Consumer,North America,United States,Technology,Smartphone,8,450.72,0.15,3064.9,716.8,Standard
 ORD-101963,2024-02-08 17:57:29,CUST-2928,Consumer,North America,United States,Office Supplies,Paper (Ream),4,16.78,0.1,60.41,12.23,Standard
 ORD-105612,2023-05-30 20:00:51,CUST-2012,Corporate,North America,United States,Technology,Monitor,5,375.73,0.0,1878.65,615.19,Standard
 ORD-107235,2024-12-29 11:48:44,CUST-1506,Consumer,Asia,Singapore,Technology,Laptop,3,355.38,0.0,1066.14,345.55,Standard
@@ -5935,7 +5935,7 @@ ORD-103689,2024-10-22 05:30:57,CUST-1138,Consumer,North America,Canada,Technolog
 ORD-100184,2024-06-20 04:17:07,CUST-1312,CONSUMER, Asia ,India,Office Supplies,Paper (Ream),10,14.71,0.0,147.1,54.2,Standard
 ORD-106136,2023-02-02 15:22:02,CUST-1160,Consumer,Oceania,Australia,Technology,Smartphone,7,446.31,0.0,3124.17,1354.22,Standard
 ORD-101587,2023-04-10 20:54:17,CUST-1244,Corporate,Europe,Spain,Office Supplies,Notebook,6,10.29,0.15,52.48,9.5,Economy
-ORD-103368,2025-01-09 05:37:44,CUST-2321,Consumer,North America,United States,Technology,Headphones,5,516.38,0.15,2194.62,496.79,Standard
+ORD-103368,2024-12-31 00:00:00,CUST-2321,Consumer,North America,United States,Technology,Headphones,5,516.38,0.15,2194.62,496.79,Standard
 ORD-101612,2024-08-15 16:28:21,CUST-2785,Corporate,Asia,India,Technology,Headphones,4,559.49,0.2,1790.37,298.08,Economy
 ORD-105544,2024-04-28 11:22:44,CUST-1811,Corporate,Europe,United Kingdom,Technology,Monitor,4,536.5,0.1,1931.4,533.57,Standard
 ORD-104845,2022-06-18 15:11:06,CUST-1875,Consumer,North America,Canada,Furniture,Desk,1,163.07,0.1,146.76,31.64,Standard
@@ -6082,7 +6082,7 @@ ORD-104023,2023-07-25 04:51:58,CUST-2327,Corporate,Oceania,Australia,Furniture,O
 ORD-109113,2023-03-31 03:22:24,CUST-2228,Corporate,Europe,United Kingdom,Technology,Keyboard,10,451.53,0.1,4063.77,1225.86,Standard
 ORD-101820,2024-08-01 13:32:17,CUST-1573,,Oceania,Australia,Technology,Smartphone,9,394.39,0.0,3549.51,1070.17,Standard
 ORD-100445,2023-09-15 18:57:35,CUST-2710,Consumer,Asia,Japan,Technology,Smartphone,1,452.74,0.15,384.83,42.36,Standard
-ORD-107104,2025-02-02 11:57:46,CUST-2185,Consumer,North America,United States,Technology,Headphones,10,311.43,0.1,2802.87,544.16,Standard
+ORD-107104,2024-12-31 00:00:00,CUST-2185,Consumer,North America,United States,Technology,Headphones,10,311.43,0.1,2802.87,544.16,Standard
 ORD-102972,2023-08-07 07:45:12,CUST-2843,Consumer,North America,United States,Technology,Monitor,4,337.69,0.1,1215.68,297.44,Standard
 ORD-100653,2022-12-25 08:26:48,CUST-2498,Corporate,North America,United States,Technology,Smartphone,2,328.46,0.0,656.92,225.8,Express
 ORD-107157,2024-08-20 16:34:16,CUST-1710,CONSUMER, Oceania ,New Zealand,Technology,Headphones,3,247.4,0.0,742.2,385.42,Standard
@@ -6261,7 +6261,7 @@ ORD-100733,2022-07-08 23:38:09,CUST-1073,Consumer,North America,Mexico,Office Su
 ORD-105112,2022-03-16 11:35:30,CUST-1065,Consumer,Asia,Singapore,Furniture,Desk,10,248.08,0.0,2480.8,636.47,Express
 ORD-103373,2024-09-02 09:36:12,CUST-1824,Consumer,North America,United States,Furniture,Sofa,10,194.84,0.1,1753.56,532.07,Standard
 ORD-100943,2024-10-23 13:31:15,CUST-1770,Corporate,Europe,France,Office Supplies,Stapler,4,10.23,0.0,40.92,15.09,Standard
-ORD-100132,2025-02-17 04:44:23,CUST-1714,Corporate,Europe,United Kingdom,Office Supplies,Pens (Pack),1,25.76,0.0,25.76,7.04,Standard
+ORD-100132,2024-12-31 00:00:00,CUST-1714,Corporate,Europe,United Kingdom,Office Supplies,Pens (Pack),1,25.76,0.0,25.76,7.04,Standard
 ORD-100134,2024-12-29 21:17:05,CUST-2259,Corporate,Europe,Germany,Furniture,Sofa,1,255.77,0.15,217.4,38.06,Standard
 ORD-103793,2022-02-18 11:41:49,CUST-2450,Consumer,North America,Canada,Office Supplies,Paper (Ream),8,19.07,0.2,122.05,20.05,Standard
 ORD-107550,2023-10-22 00:16:55,CUST-2086,Corporate,Asia,Singapore,Office Supplies,Paper (Ream),8,10.61,0.0,84.88,29.5,Standard
@@ -6289,9 +6289,9 @@ ORD-106282,2022-02-17 05:29:54,CUST-1974,Consumer,North America,Mexico,Office Su
 ORD-104116,2022-03-09 01:42:04,CUST-2522,Corporate,Europe,Spain,Office Supplies,Stapler,7,12.62,0.0,88.34,31.89,Same Day
 ORD-109257,2022-10-07 10:28:11,CUST-2230,Corporate,Oceania,New Zealand,Office Supplies,Stapler,2,15.57,0.0,31.14,8.67,Standard
 ORD-105077,2024-02-16 05:54:31,CUST-2072,CONSUMER, North America ,Mexico,Office Supplies,Stapler,4,17.06,0.0,68.24,18.06,Standard
-ORD-104503,2025-02-02 08:01:15,CUST-1412,Consumer,Europe,United Kingdom,Office Supplies,Binder,6,18.41,0.3,77.32,-3.02,Standard
+ORD-104503,2024-12-31 00:00:00,CUST-1412,Consumer,Europe,United Kingdom,Office Supplies,Binder,6,18.41,0.3,77.32,-3.02,Standard
 ORD-106335,2024-03-30 08:30:13,CUST-1609,Home Office,North America,United States,Office Supplies,Stapler,7,11.75,0.0,82.25,22.05,Economy
-ORD-107246,2025-02-08 19:06:10,CUST-1255,Corporate,Asia,India,Technology,Headphones,3,807.19,0.0,2421.57,773.01,Express
+ORD-107246,2024-12-31 00:00:00,CUST-1255,Corporate,Asia,India,Technology,Headphones,3,807.19,0.0,2421.57,773.01,Express
 ORD-106055,2022-01-11 02:26:57,CUST-2326,Consumer,North America,Canada,Furniture,Office Chair,5,230.64,0.2,922.56,221.45,Standard
 ORD-106224,2022-09-06 14:11:09,CUST-2303,Home Office,Europe,Spain,Office Supplies,Notebook,4,10.13,0.0,40.52,10.45,Express
 ORD-107777,2022-01-19 06:59:00,CUST-1912,Consumer,Asia,Singapore,Office Supplies,Paper (Ream),9,14.86,0.0,133.74,44.03,Standard
@@ -6429,7 +6429,7 @@ ORD-103437,2024-09-18 16:09:12,CUST-2009,Corporate,North America,Canada,Office S
 ORD-103072,2023-12-17 17:18:22,CUST-1946,Home Office,Asia,Japan,Furniture,Office Chair,9,199.51,0.0,1795.59,612.66,Express
 ORD-109309,2023-12-27 14:01:18,CUST-1477,Corporate,Europe,United Kingdom,Furniture,Lamp,5,202.37,0.15,860.07,213.62,Express
 ORD-101670,2024-07-30 05:16:27,CUST-1880,Consumer,North America,United States,Office Supplies,Paper (Ream),8,9.07,0.0,72.56,28.41,Standard
-ORD-100159,2025-01-29 09:27:47,CUST-1353,Consumer,Asia,Singapore,Technology,Headphones,3,593.37,0.1,1602.1,461.6,Express
+ORD-100159,2024-12-31 00:00:00,CUST-1353,Consumer,Asia,Singapore,Technology,Headphones,3,593.37,0.1,1602.1,461.6,Express
 ORD-102723,2023-04-05 15:21:23,CUST-1958,Consumer,Europe,Germany,Technology,Headphones,3,556.62,0.1,1502.87,291.04,Express
 ORD-103935,2023-05-30 07:23:18,CUST-2445,Home Office,North America,United States,Office Supplies,Notebook,6,25.08,0.1,135.43,30.15,Same Day
 ORD-107240,2024-04-04 17:47:46,CUST-2584,Consumer,Europe,Germany,Furniture,Office Chair,1,134.34,0.0,134.34,49.77,Standard
@@ -6478,7 +6478,7 @@ ORD-106435,2022-01-21 23:20:46,CUST-2916,Corporate,North America,Canada,Office S
 ORD-107876,2024-08-18 22:36:33,CUST-1411,Consumer,Europe,France,Technology,Headphones,7,458.66,0.0,3210.62,914.57,Standard
 ORD-104590,2022-12-13 17:43:12,CUST-2679,Corporate,North America,Canada,Technology,Smartphone,5,545.26,0.0,2726.3,742.81,Standard
 ORD-108872,2023-04-19 18:42:38,CUST-2413,CONSUMER, North America ,Mexico,Office Supplies,Binder,4,16.91,0.1,60.88,16.6,Economy
-ORD-101278,2025-01-14 15:27:37,CUST-1176,CONSUMER, Asia ,Singapore,Office Supplies,Binder,9,16.41,0.0,147.69,46.75,Economy
+ORD-101278,2024-12-31 00:00:00,CUST-1176,CONSUMER, Asia ,Singapore,Office Supplies,Binder,9,16.41,0.0,147.69,46.75,Economy
 ORD-101864,2023-04-25 03:43:43,CUST-1284,Consumer,Europe,France,Office Supplies,Notebook,3,10.98,0.0,32.94,10.08,Standard
 ORD-107917,2024-12-10 06:59:03,CUST-1171,Consumer,North America,Mexico,Technology,Laptop,8,389.38,0.15,2647.78,513.36,Economy
 ORD-104687,2022-08-02 04:45:26,CUST-1607,,Europe,Spain,Furniture,Lamp,5,256.09,0.3,896.31,,
@@ -6528,7 +6528,7 @@ ORD-108816,2024-12-18 15:09:46,CUST-2710,Corporate,Asia,Singapore,Office Supplie
 ORD-107010,2024-12-12 10:45:52,CUST-1394,Corporate,North America,United States,Furniture,Bookcase,9,318.06,0.2,2290.03,438.39,Same Day
 ORD-108510,2023-04-06 17:31:33,CUST-1420,Consumer,North America,Mexico,Office Supplies,Binder,7,11.31,0.15,67.29,14.44,Standard
 ORD-102781,2024-12-17 23:41:57,CUST-1444,Consumer,North America,Canada,Office Supplies,Binder,1,10.07,0.0,10.07,3.13,Standard
-ORD-101408,2025-01-21 06:02:24,CUST-2342,Home Office,Asia,Singapore,Office Supplies,Stapler,5,14.52,0.15,61.71,11.0,Express
+ORD-101408,2024-12-31 00:00:00,CUST-2342,Home Office,Asia,Singapore,Office Supplies,Stapler,5,14.52,0.15,61.71,11.0,Express
 ORD-109896,2024-10-19 17:42:37,CUST-2521,Home Office,Europe,Germany,Technology,Monitor,3,480.25,0.1,1296.68,308.53,Express
 ORD-101757,2022-02-21 07:04:26,CUST-2337,Consumer,Oceania,Australia,Furniture,Sofa,8,222.61,0.0,1780.88,787.9,Standard
 ORD-105945,2024-03-06 21:27:06,CUST-1850,Corporate,North America,Mexico,Furniture,Lamp,5,182.68,0.0,913.4,258.95,Standard
@@ -6777,7 +6777,7 @@ ORD-104148,2024-11-16 13:54:58,CUST-2588,Consumer,Europe,United Kingdom,Furnitur
 ORD-108609,2022-02-08 07:13:32,CUST-1722,Corporate,North America,Mexico,Office Supplies,Notebook,1,11.42,0.3,7.99,-0.13,Same Day
 ORD-109280,2022-06-20 13:21:02,CUST-1990,Corporate,Oceania,New Zealand,Technology,Smartphone,7,343.66,0.3,1683.93,97.5,Standard
 ORD-106390,2023-06-03 08:08:12,CUST-1876,Home Office,North America,Mexico,Technology,Headphones,11,568.04,0.0,6248.44,1955.7,Same Day
-ORD-105424,2025-01-30 09:57:42,CUST-1630,Consumer,Oceania,New Zealand,Office Supplies,Stapler,10,12.34,0.0,123.4,45.58,Same Day
+ORD-105424,2024-12-31 00:00:00,CUST-1630,Consumer,Oceania,New Zealand,Office Supplies,Stapler,10,12.34,0.0,123.4,45.58,Same Day
 ORD-102815,2024-05-26 23:41:22,CUST-1037,Consumer,Europe,Germany,Furniture,Bookcase,11,216.37,0.15,2023.06,359.44,Standard
 ORD-109874,2022-05-28 09:16:29,CUST-1303,Home Office,North America,Mexico,Office Supplies,Binder,10,13.68,0.3,95.76,9.38,Economy
 ORD-108678,2022-02-11 18:09:45,CUST-1502,Corporate,Asia,Singapore,Technology,Laptop,9,767.91,0.0,6911.19,2568.47,Express
@@ -6911,7 +6911,7 @@ ORD-104989,2024-06-07 07:58:33,CUST-1911,,North America,Canada,Furniture,Bookcas
 ORD-101477,2023-10-07 15:56:30,CUST-1378,Home Office,Oceania,New Zealand,Furniture,Sofa,4,284.75,0.0,1139.0,447.23,Standard
 ORD-106298,2024-12-22 13:36:56,CUST-1880,Consumer,North America,Canada,Office Supplies,Pens (Pack),11,10.33,0.1,102.27,28.36,Standard
 ORD-104333,2024-08-23 12:45:36,CUST-2521,Consumer,Europe,Germany,Furniture,Desk,11,155.94,0.0,1715.34,639.4,Express
-ORD-105346,2025-01-25 12:12:28,CUST-2428,Consumer,Asia,India,Office Supplies,Notebook,11,14.76,0.0,162.36,53.09,Standard
+ORD-105346,2024-12-31 00:00:00,CUST-2428,Consumer,Asia,India,Office Supplies,Notebook,11,14.76,0.0,162.36,53.09,Standard
 ORD-109841,2024-04-03 10:16:06,CUST-2371,Home Office,North America,Canada,Technology,Laptop,8,470.39,0.0,3763.12,1235.94,Economy
 ORD-103700,2022-10-18 11:19:49,CUST-2980,Consumer,Asia,Singapore,Furniture,Sofa,8,139.37,0.0,1114.96,422.37,Standard
 ORD-109218,2023-11-03 23:46:57,CUST-1366,Corporate,Asia,Singapore,Technology,Keyboard,1,701.18,0.15,596.0,145.91,Standard
@@ -7149,7 +7149,7 @@ ORD-102947,2024-02-16 13:49:50,CUST-2416,Consumer,Asia,India,Furniture,Desk,6,10
 ORD-109156,2022-08-27 14:02:43,CUST-1136,Consumer,Europe,France,Office Supplies,Pens (Pack),1,15.8,0.0,15.8,5.22,Express
 ORD-105203,2022-02-03 21:37:32,CUST-2828,Consumer,Europe,Spain,Office Supplies,Paper (Ream),4,6.89,0.1,24.8,4.67,Standard
 ORD-106432,2023-12-07 04:44:48,CUST-1954,Consumer,North America,Mexico,Technology,Monitor,8,486.06,0.0,3888.48,1621.14,Express
-ORD-101232,2024-12-31 11:32:06,CUST-2534,Consumer,North America,United States,Technology,Monitor,1,311.32,0.0,311.32,147.91,Express
+ORD-101232,2024-12-31 00:00:00,CUST-2534,Consumer,North America,United States,Technology,Monitor,1,311.32,0.0,311.32,147.91,Express
 ORD-104950,2022-06-15 07:20:17,CUST-1612,Home Office,North America,Canada,Office Supplies,Pens (Pack),10,14.8,0.0,148.0,41.66,Standard
 ORD-103997,2022-04-23 12:04:28,CUST-2561,Consumer,Europe,Spain,Furniture,Office Chair,11,223.17,0.0,2454.87,948.21,Standard
 ORD-102657,2023-10-16 00:50:50,CUST-2054,Corporate,Europe,Spain,Furniture,Sofa,3,217.69,0.15,555.11,181.71,Standard
@@ -7276,7 +7276,7 @@ ORD-106277,2023-04-20 11:18:24,CUST-2969,Consumer,Europe,Germany,Technology,Smar
 ORD-104369,2024-04-23 21:31:17,CUST-1914,Home Office,Europe,France,Office Supplies,Notebook,11,10.78,0.2,94.86,17.5,Express
 ORD-103057,2024-01-17 17:34:55,CUST-1708,,North America,Mexico,Furniture,Sofa,11,292.05,0.0,3212.55,,
 ORD-109468,2023-02-07 20:11:28,CUST-1891,Home Office,Europe,United Kingdom,Furniture,Desk,6,329.98,0.0,1979.88,735.79,Standard
-ORD-101385,2025-01-08 04:53:21,CUST-2891,Consumer,North America,United States,Furniture,Desk,1,182.04,0.15,154.73,36.0,Standard
+ORD-101385,2024-12-31 00:00:00,CUST-2891,Consumer,North America,United States,Furniture,Desk,1,182.04,0.15,154.73,36.0,Standard
 ORD-109006,2022-02-05 17:45:29,CUST-2386,Consumer,North America,Mexico,Technology,Laptop,8,405.57,0.15,2757.88,747.35,Standard
 ORD-108292,2022-11-29 05:41:29,CUST-1354,Consumer,Europe,United Kingdom,Office Supplies,Paper (Ream),10,22.13,0.1,199.17,53.76,Economy
 ORD-103143,2022-11-17 08:22:54,CUST-1883,Consumer,North America,Mexico,Technology,Laptop,7,312.2,0.15,1857.59,584.05,Standard
@@ -7633,7 +7633,7 @@ ORD-105483,2023-11-12 18:31:13,CUST-2471,Corporate,North America,United States,F
 ORD-102296,2024-12-12 12:39:31,CUST-2872,Corporate,Asia,India,Furniture,Desk,10,141.81,0.0,1418.1,477.63,Express
 ORD-103296,2022-06-08 03:31:10,CUST-1907,Corporate,Asia,Japan,Technology,Laptop,10,476.45,0.15,4049.82,953.33,Express
 ORD-103180,2023-02-14 07:58:04,CUST-1434,Corporate,Oceania,New Zealand,Furniture,Lamp,2,202.53,0.3,283.54,12.41,Standard
-ORD-102341,2025-01-28 04:36:28,CUST-1133,Consumer,North America,United States,Furniture,Desk,5,324.01,0.3,1134.03,-92.08,Standard
+ORD-102341,2024-12-31 00:00:00,CUST-1133,Consumer,North America,United States,Furniture,Desk,5,324.01,0.3,1134.03,-92.08,Standard
 ORD-109148,2024-12-10 01:19:27,CUST-2216,Corporate,North America,United States,Technology,Smartphone,11,197.97,0.15,1851.02,610.79,Standard
 ORD-107837,2023-08-25 01:31:46,CUST-1478,Consumer,Asia,India,Technology,Keyboard,3,722.4,0.0,2167.2,680.6,Standard
 ORD-108625,2022-11-15 12:51:38,CUST-2916,Consumer,North America,Mexico,Office Supplies,Pens (Pack),11,16.68,0.0,183.48,54.96,Standard
@@ -7850,7 +7850,7 @@ ORD-106846,2023-07-30 12:25:17,CUST-2680,Consumer,North America,United States,Te
 ORD-107563,2022-08-07 05:27:01,CUST-1429,Home Office,Europe,Spain,Technology,Smartphone,9,547.71,0.0,4929.39,1419.36,Economy
 ORD-106041,2023-05-22 10:33:51,CUST-2449,Corporate,North America,Mexico,Furniture,Lamp,4,278.01,0.3,778.43,33.34,Express
 ORD-100828,2024-01-24 00:34:00,CUST-2959,Home Office,Asia,India,Office Supplies,Pens (Pack),10,11.85,0.0,118.5,45.56,Standard
-ORD-103426,2025-01-04 07:17:45,CUST-2802,Corporate,North America,Canada,Office Supplies,Notebook,10,10.99,0.2,87.92,13.97,Express
+ORD-103426,2024-12-31 00:00:00,CUST-2802,Corporate,North America,Canada,Office Supplies,Notebook,10,10.99,0.2,87.92,13.97,Express
 ORD-104913,2024-02-15 07:38:06,CUST-1813,Home Office,Oceania,Australia,Office Supplies,Pens (Pack),1,10.96,0.15,9.32,1.5,Standard
 ORD-109712,2023-12-19 09:43:11,CUST-1447,Consumer,Asia,Singapore,Furniture,Sofa,11,275.18,0.0,3026.98,958.33,Express
 ORD-108883,2024-02-27 20:51:12,CUST-2741,Consumer,North America,Canada,Furniture,Desk,6,152.3,0.0,913.8,323.95,Standard
@@ -7926,7 +7926,7 @@ ORD-101932,2024-08-18 07:21:49,CUST-1723,Consumer,Asia,Japan,Technology,Laptop,1
 ORD-104004,2023-11-18 23:51:54,CUST-1018,Corporate,Europe,Spain,Furniture,Desk,5,182.16,0.1,819.72,250.81,Standard
 ORD-102380,2023-11-21 21:33:36,CUST-1625,Corporate,Asia,India,Office Supplies,Stapler,9,6.89,0.0,62.01,27.5,Express
 ORD-100410,2024-07-31 01:40:15,CUST-1155,Consumer,Europe,United Kingdom,Office Supplies,Paper (Ream),3,5.73,0.2,13.75,1.15,Standard
-ORD-100505,2025-02-10 04:26:34,CUST-1513,Consumer,Asia,Singapore,Office Supplies,Binder,1,8.19,0.15,6.96,1.27,Standard
+ORD-100505,2024-12-31 00:00:00,CUST-1513,Consumer,Asia,Singapore,Office Supplies,Binder,1,8.19,0.15,6.96,1.27,Standard
 ORD-100093,2022-02-06 02:19:17,CUST-2231,Consumer,North America,Canada,Office Supplies,Notebook,2,9.45,0.3,13.23,0.24,Economy
 ORD-105147,2022-02-12 13:23:05,CUST-2353,CONSUMER, Europe ,United Kingdom,Furniture,Bookcase,5,182.53,0.0,912.65,314.46,Express
 ORD-105524,2023-06-24 11:31:42,CUST-1931,Corporate,North America,Mexico,Furniture,Desk,3,231.38,0.0,694.14,240.93,Standard
@@ -7957,7 +7957,7 @@ ORD-100639,2023-04-20 08:59:30,CUST-1645,Consumer,Asia,Japan,Furniture,Office Ch
 ORD-109934,2023-08-22 01:36:08,CUST-2624,Consumer,Asia,India,Office Supplies,Notebook,5,10.32,0.1,46.44,7.42,Standard
 ORD-102394,2022-12-24 21:06:42,CUST-1004,Consumer,Europe,Germany,Furniture,Sofa,2,227.59,0.15,386.9,48.23,Standard
 ORD-101127,2023-10-14 07:31:44,CUST-1088,Corporate,Europe,United Kingdom,Technology,Smartphone,5,304.97,0.0,1524.85,475.32,Standard
-ORD-100610,2025-02-13 23:04:48,CUST-2963,CONSUMER, Europe ,Germany,Technology,Monitor,4,474.76,0.15,1614.18,352.94,Same Day
+ORD-100610,2024-12-31 00:00:00,CUST-2963,CONSUMER, Europe ,Germany,Technology,Monitor,4,474.76,0.15,1614.18,352.94,Same Day
 ORD-102232,2022-11-10 10:55:56,CUST-1013,Consumer,North America,Canada,Office Supplies,Stapler,4,19.33,0.0,77.32,27.63,Economy
 ORD-102652,2022-03-20 15:31:24,CUST-1725,Consumer,Asia,India,Technology,Keyboard,8,213.45,0.2,1366.08,155.9,Standard
 ORD-109527,2024-12-30 14:50:22,CUST-2481,Consumer,North America,United States,Furniture,Office Chair,8,313.39,0.0,2507.12,863.52,Economy
@@ -8417,7 +8417,7 @@ ORD-109448,2024-12-28 12:33:54,CUST-2383,Consumer,North America,United States,Of
 ORD-109848,2023-03-22 20:08:06,CUST-2399,Consumer,North America,United States,Office Supplies,Binder,5,9.75,0.2,39.0,8.36,Standard
 ORD-107726,2023-03-13 12:10:03,CUST-1556,Corporate,North America,Mexico,Technology,Smartphone,1,335.0,0.3,234.5,5.39,Standard
 ORD-105193,2022-04-04 18:13:12,CUST-1772,Consumer,Europe,Spain,Furniture,Bookcase,2,133.87,0.0,267.74,104.32,Express
-ORD-100997,2025-02-07 03:10:45,CUST-1819,Corporate,North America,Canada,Technology,Headphones,9,534.88,0.2,3851.14,686.26,Express
+ORD-100997,2024-12-31 00:00:00,CUST-1819,Corporate,North America,Canada,Technology,Headphones,9,534.88,0.2,3851.14,686.26,Express
 ORD-105205,2022-06-07 22:41:13,CUST-1368,Consumer,North America,Mexico,Office Supplies,Stapler,2,10.97,0.0,21.94,8.46,Standard
 ORD-102869,2022-04-02 17:01:12,CUST-1976,Home Office,North America,Canada,Office Supplies,Binder,10,14.53,0.2,116.24,24.18,Express
 ORD-101554,2022-03-28 19:40:35,CUST-1473,Consumer,North America,United States,Office Supplies,Stapler,5,7.47,0.1,33.62,10.5,Express
@@ -8968,7 +8968,7 @@ ORD-103369,2024-10-20 00:26:17,CUST-1759,Corporate,Europe,Spain,Technology,Smart
 ORD-105390,2024-11-01 09:28:47,CUST-1996,Corporate,Europe,United Kingdom,Furniture,Office Chair,9,197.99,0.0,1781.91,645.69,Standard
 ORD-109622,2022-12-06 12:40:42,CUST-2268,Corporate,Oceania,Australia,Technology,Monitor,6,506.53,0.1,2735.26,570.76,Standard
 ORD-108047,2023-01-01 07:01:33,CUST-1573,Home Office,Oceania,Australia,Furniture,Bookcase,2,150.51,0.0,301.02,106.5,Economy
-ORD-108463,2025-01-10 17:44:31,CUST-1097,Home Office,Asia,India,Office Supplies,Paper (Ream),4,9.12,0.0,36.48,12.7,Standard
+ORD-108463,2024-12-31 00:00:00,CUST-1097,Home Office,Asia,India,Office Supplies,Paper (Ream),4,9.12,0.0,36.48,12.7,Standard
 ORD-101539,2023-10-02 06:59:18,CUST-1915,Corporate,Europe,Spain,Technology,Smartphone,8,456.97,0.15,3107.4,493.39,Economy
 ORD-103117,2024-09-14 19:30:27,CUST-1420,Consumer,Europe,France,Technology,Keyboard,5,369.48,0.1,1662.66,467.26,Same Day
 ORD-105954,2022-10-21 01:52:04,CUST-2569,Consumer,Europe,Spain,Technology,Monitor,7,489.01,0.0,3423.07,1279.16,Standard
@@ -9207,7 +9207,7 @@ ORD-108124,2024-09-09 17:01:29,CUST-2743,Corporate,Oceania,Australia,Office Supp
 ORD-100497,2024-06-11 18:33:34,CUST-2607,Consumer,Europe,United Kingdom,Technology,Laptop,11,357.06,0.0,3927.66,1501.17,Express
 ORD-103800,2023-02-03 11:51:51,CUST-2120,Consumer,North America,Canada,Technology,Headphones,11,674.41,0.1,6676.66,1508.03,Standard
 ORD-101401,2023-01-16 09:42:36,CUST-2521,Consumer,North America,Mexico,Technology,Monitor,6,381.51,0.0,2289.06,622.39,Standard
-ORD-107300,2025-01-03 21:04:11,CUST-2044,Corporate,Europe,France,Office Supplies,Paper (Ream),10,13.48,0.0,134.8,52.68,Express
+ORD-107300,2024-12-31 00:00:00,CUST-2044,Corporate,Europe,France,Office Supplies,Paper (Ream),10,13.48,0.0,134.8,52.68,Express
 ORD-109881,2023-08-12 00:09:37,CUST-2717,Corporate,North America,Canada,Office Supplies,Notebook,7,7.28,0.1,45.86,8.43,Standard
 ORD-102346,2023-01-19 00:41:17,CUST-2351,Home Office,Asia,Singapore,Office Supplies,Pens (Pack),6,7.51,0.1,40.55,12.88,Economy
 ORD-106235,2023-04-04 06:54:31,CUST-2125,Corporate,North America,Mexico,Furniture,Sofa,9,158.42,0.0,1425.78,537.56,Standard
@@ -9560,7 +9560,7 @@ ORD-101086,2024-03-15 16:08:07,CUST-2220,Consumer,Asia,Singapore,Technology,Moni
 ORD-109090,2024-05-20 14:51:30,CUST-1686,Home Office,Europe,Spain,Technology,Monitor,10,363.69,0.0,3636.9,1208.85,Express
 ORD-107785,2024-06-30 05:43:49,CUST-1699,Consumer,Oceania,New Zealand,Office Supplies,Notebook,3,24.39,0.1,65.85,13.9,Standard
 ORD-107453,2024-10-29 03:38:39,CUST-2724,Consumer,Europe,Germany,Furniture,Office Chair,7,238.16,0.15,1417.05,288.0,Express
-ORD-105970,2025-01-15 09:28:37,CUST-2485,Consumer,North America,United States,Office Supplies,Paper (Ream),2,13.69,0.2,21.9,2.23,Standard
+ORD-105970,2024-12-31 00:00:00,CUST-2485,Consumer,North America,United States,Office Supplies,Paper (Ream),2,13.69,0.2,21.9,2.23,Standard
 ORD-103444,2024-09-02 06:25:29,CUST-2491,Corporate,Asia,Japan,Office Supplies,Stapler,1,16.56,0.0,16.56,5.73,Same Day
 ORD-109371,2022-07-15 07:51:37,CUST-1255,Corporate,North America,Mexico,Technology,Laptop,10,694.95,0.3,4864.65,333.31,Same Day
 ORD-107585,2023-03-30 13:30:45,CUST-1818,Home Office,North America,United States,Furniture,Bookcase,7,172.02,0.1,1083.73,217.05,Standard
@@ -9577,7 +9577,7 @@ ORD-100502,2023-10-12 05:39:20,CUST-1240,Consumer,Oceania,Australia,Furniture,Bo
 ORD-107207,2022-07-09 12:17:37,CUST-2977,Consumer,North America,United States,Office Supplies,Notebook,2,7.22,0.0,14.44,4.2,Express
 ORD-103553,2022-12-28 17:57:42,CUST-2951,Consumer,Europe,United Kingdom,Office Supplies,Stapler,8,9.88,0.0,79.04,26.07,Standard
 ORD-101651,2022-09-04 05:43:59,CUST-2456,Corporate,North America,Canada,Office Supplies,Notebook,4,16.39,0.1,59.0,11.98,Standard
-ORD-106963,2025-02-10 23:22:01,CUST-1710,Corporate,North America,United States,Technology,Monitor,9,437.75,0.15,3348.79,658.23,Standard
+ORD-106963,2024-12-31 00:00:00,CUST-1710,Corporate,North America,United States,Technology,Monitor,9,437.75,0.15,3348.79,658.23,Standard
 ORD-103376,2022-04-13 14:02:59,CUST-1248,Corporate,North America,United States,Office Supplies,Stapler,3,9.95,0.1,26.86,5.86,Standard
 ORD-108444,2023-09-06 01:33:02,CUST-1306,Consumer,Asia,India,Technology,Headphones,2,394.24,0.2,630.78,89.89,Standard
 ORD-109792,2022-10-02 13:51:16,CUST-1321,Consumer,North America,United States,Office Supplies,Notebook,8,9.87,0.0,78.96,27.76,Standard
@@ -9702,7 +9702,7 @@ ORD-106594,2022-09-04 20:53:11,CUST-1755,Corporate,Oceania,Australia,Furniture,L
 ORD-102898,2022-07-03 06:48:47,CUST-2387,Corporate,Europe,Germany,Office Supplies,Paper (Ream),10,10.11,0.1,90.99,15.96,Express
 ORD-107629,2022-12-21 00:44:38,CUST-2172,Home Office,Asia,Japan,Technology,Headphones,1,674.9,0.0,674.9,195.11,Standard
 ORD-102863,2023-08-28 07:19:02,CUST-2200,Consumer,North America,United States,Furniture,Lamp,8,170.93,0.1,1230.7,363.13,Standard
-ORD-107199,2025-01-15 14:10:01,CUST-2843,Consumer,Europe,France,Office Supplies,Stapler,5,13.03,0.0,65.15,25.77,Standard
+ORD-107199,2024-12-31 00:00:00,CUST-2843,Consumer,Europe,France,Office Supplies,Stapler,5,13.03,0.0,65.15,25.77,Standard
 ORD-106792,2022-12-17 21:30:11,CUST-1045,Consumer,Asia,India,Office Supplies,Stapler,9,8.1,0.15,61.96,7.17,Standard
 ORD-109493,2022-12-28 21:21:31,CUST-1602,Home Office,Europe,Germany,Furniture,Lamp,8,281.65,0.2,1802.56,250.94,Express
 ORD-101785,2022-07-07 12:30:04,CUST-2986,Home Office,Asia,Singapore,Furniture,Lamp,6,235.6,0.0,1413.6,391.19,Standard
@@ -9768,7 +9768,7 @@ ORD-108158,2024-03-20 11:24:38,CUST-1940,Consumer,North America,Canada,Technolog
 ORD-108247,2024-09-18 11:22:09,CUST-1107,Corporate,North America,Canada,Office Supplies,Pens (Pack),5,15.88,0.1,71.46,20.11,Standard
 ORD-105036,2024-11-20 16:35:27,CUST-1350,Corporate,Asia,Japan,Furniture,Office Chair,11,480.42,0.1,4756.16,1250.13,Standard
 ORD-104867,2022-06-07 13:40:26,CUST-1083,Corporate,North America,Mexico,Technology,Keyboard,4,566.67,0.2,1813.34,163.78,Express
-ORD-102087,2025-01-20 19:12:43,CUST-1501,Consumer,North America,United States,Technology,Keyboard,11,577.35,0.0,6350.85,2303.42,Economy
+ORD-102087,2024-12-31 00:00:00,CUST-1501,Consumer,North America,United States,Technology,Keyboard,11,577.35,0.0,6350.85,2303.42,Economy
 ORD-100522,2023-05-22 18:36:58,CUST-1427,Home Office,North America,United States,Furniture,Desk,4,151.55,0.2,484.96,55.6,Express
 ORD-103336,2022-03-10 22:14:20,CUST-2273,Corporate,Europe,Germany,Technology,Laptop,7,528.42,0.0,3698.94,1238.52,Standard
 ORD-106448,2023-11-08 18:33:04,CUST-2525,Consumer,Europe,Spain,Office Supplies,Binder,10,10.67,0.15,90.7,19.53,Standard
